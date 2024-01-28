@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Huzerovo",
+                "Name[zh_CN]": "狐灵"
+            }
+        ],
+        "Name": "Huzerowo",
+        "Description": "KDE Plasma Theme with Nord style",
+        "Id": "Huzerowo",
+        "Version": "0.1.0",
+        "EnabledByDefault": true,
+        "License": "GPLv3",
+        "Website": ""
+    },
+    "X-Plasma-API": "5.0"
+}

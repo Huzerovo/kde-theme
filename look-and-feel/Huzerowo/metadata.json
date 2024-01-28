@@ -1,0 +1,29 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Huzerovo",
+                "Name[zh_CN]": "狐灵"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "Description": "Base on other themes, with some modifications",
+        "Description[zh_CN]": "基于其他Nord主题，附带一些个人修改",
+        "Id": "Huzerowo",
+        "Name": "Huzerowo",
+        "Version": "0.1.0",
+        "License": "GPLv3+",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Look and Feel;",
+    "Keywords[zh_CN]": "桌面;外观;",
+    "X-Plasma-API": "5.0",
+    "X-KPackage-Dependencies": [
+        "kns://aurorae.knsrc/api.kde-look.org/1326274",
+        "kns://colorschemes.knsrc/api.kde-look.org/1833604",
+        "kns://xcursor.knsrc/api.kde-look.org/1662218",
+        "kns://icons.knsrc/api.kde-look.org/1937741"
+    ]
+}
